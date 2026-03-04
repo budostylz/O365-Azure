@@ -1,5 +1,6 @@
-# O365-Azure
-O365 Azure Skills Training
+# Skills Training
+
+## Microsoft - Azure
 
 [Learn How to Develop SPFx Solutions using React & NoJS Frameworks From Scratch Step By Step](https://www.udemy.com/course/sharepointframeworkspfxdevelopment/learn/lecture/19916512#overview)
 
